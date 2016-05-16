@@ -1,0 +1,27 @@
+{
+  "name": "WhatToEat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.py",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dsullivan7/WhatToEat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dsullivan7/WhatToEat/issues"
+  },
+  "homepage": "https://github.com/dsullivan7/WhatToEat",
+  "dependencies": {
+    "babel-preset-react": "^6.5.0",
+    "babelify": "^7.3.0",
+    "events": "^1.1.0",
+    "flux": "^2.1.1",
+    "object-assign": "^4.1.0",
+    "react-dom": "^15.0.2"
+  }
+}
